@@ -1,0 +1,17 @@
+#box{
+    height: 100px;
+    width: 100px;
+    margin: auto;
+    background-color: crimson;
+    text-align: center;
+    font-size: 20px;
+    padding: 10px;
+    border: 3px black solid;
+    transition-property: background-color;
+    transition-duration: 2s;
+    transition-timing-function: ease-in-out;
+}
+#box:hover{
+    background-color: aqua;
+    transform:rotate(360deg);
+}

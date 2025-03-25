@@ -1,0 +1,11 @@
+.paragraph{
+    background-color:#bdc2bf;
+    color:blue;
+    font-size: 50px;
+    font-family: 'Poppins', sans-serif;
+    text-align: center;
+    font-weight:bold ;
+    border: 2px black solid;
+    margin: 20px;
+    padding: 30px;
+}
